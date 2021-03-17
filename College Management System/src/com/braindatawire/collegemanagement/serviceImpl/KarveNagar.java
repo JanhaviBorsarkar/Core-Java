@@ -10,6 +10,7 @@ public class KarveNagar implements Cjc
 	List<Faculty> flist=new ArrayList<>();
 	List<Batch> blist=new ArrayList<>();
 	List<Student> slist=new ArrayList<>();
+	
 	Scanner sc = new Scanner(System.in);
 	int count = 0;
 	int count1 = 0;
